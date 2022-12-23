@@ -44,7 +44,7 @@
     "express-asyncify": "^1.0.1",
     "joi": "^10.6.0",
     "jsonrpc-lite": "^2.2.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "knex": "^0.95.15",
     "moment": "^2.29.1",
     "sqlite3": "^5.0.2",
